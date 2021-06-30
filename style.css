@@ -4,20 +4,19 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  border: 1px solid red;
 }
 
 body {
   font-family: 'Unna', sans-serif;
   line-height: 1.6;
-  background      : radial-gradient(#000 4px, transparent 5px);
+ 
 }
 
 
 
 h1 {
 
-  font-weight: 300;
+  font-weight: 100;
   font-size: 100px;
   line-height: 1.2;
   margin-bottom: 15 px;
@@ -26,7 +25,7 @@ h1 {
 
 h2 {
 
-  font-weight: 300;
+  font-weight: 100;
   font-size: 40px;
   line-height: 1.2;
   margin-bottom:15px ;
@@ -36,7 +35,7 @@ h2 {
 
 h3 {
   
-  font-weight: 300;
+  font-weight: 100;
   font-size: 55px;
   line-height: 1.2;
   margin-bottom: 15px;
@@ -46,11 +45,10 @@ h3 {
 
 h4 {
 
-  font-weight: 300;
+  font-weight: 100;
   font-size: 45px;
   line-height: 1.2;
   text-align: center;
-  margin-bottom:;
   font-family: 'Dancing Script', cursive;
 }
 
@@ -98,6 +96,14 @@ h4 {
   font-size: 40px;
   padding: 15px;
 }
+#divider{
+
+  width: 2px;
+  height:400px;
+  padding: 10px 0px;
+  opacity: 0.8;
+  background-color: #000;
+}  
 
 .form{
   margin: 25px;
