@@ -113,15 +113,6 @@ h4 {
   opacity: 0.5;
 }
 
-#divider{
-
-  width: 2px;
-  height:400px;
-  padding: 10px 0px;
-  opacity: 0.8;
-  background-color: #000;
-}  
-
 .form{
   margin: 25px;
 }
