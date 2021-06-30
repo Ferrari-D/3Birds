@@ -4,6 +4,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  border: 1px solid red;
 }
 
 body {
@@ -48,9 +49,9 @@ h4 {
   font-weight: 300;
   font-size: 45px;
   line-height: 1.2;
-  align-content: center;
-  margin-bottom: 35px;
-  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  margin-bottom:;
+  font-family: 'Dancing Script', cursive;
 }
 
 .whole {
