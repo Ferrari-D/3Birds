@@ -90,6 +90,13 @@ h4 {
   display: flex;
 }
 
+.block2-wrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #block2 ul {
   display:grid;
   grid-template-rows: repeat(3, 1fr);
