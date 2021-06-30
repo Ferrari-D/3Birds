@@ -106,7 +106,7 @@ h4 {
   display: flex;
   padding: 15px 0;
 }
-#divider-wrap .wrapper {
+#divider-wrap .divider {
   height: 100%;
   width: 1px;
   background-color: #000;
